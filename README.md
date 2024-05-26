@@ -1,6 +1,8 @@
 # rn-assignment2-11083926
 Assignment 2 for Mobile Dev
 
+## Student ID: 11083926
+
 ## Image of Task
 ![ Project Image ](Screenshot.png)
 
@@ -13,4 +15,4 @@ and then selecting Blank for a js Blank template
 
 I then changed the text from "Open in App.js" to "My Name is Ekow".
 
-Then I added the bold effect after I changed the background
+Then I added the bold effect after I changed the background.
